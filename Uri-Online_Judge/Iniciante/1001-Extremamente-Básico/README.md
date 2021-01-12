@@ -1,4 +1,6 @@
-<h1> Extremamente Básico</h1>
+# Extremamente Básico
+
+---
 
 Leia 2 valores inteiros e armazene-os nas variáveis <strong>A</strong> e <strong>B</strong>. Efetue a soma de <strong>A</strong> e <strong>B</strong> atribuindo o seu resultado na variável <strong>X</strong>. Imprima <strong>X</strong> conforme exemplo apresentado abaixo. Não apresente mensagem alguma além daquilo que está sendo especificado e não esqueça de imprimir o fim de linha após o resultado, caso contrário, você receberá "<em>Presentation Error</em>".
 
@@ -10,7 +12,6 @@ A entrada contém 2 valores inteiros.
 Imprima a mensagem "X = " (letra X maiúscula) seguido pelo valor da variável <strong> X </strong> e pelo final de linha. Cuide para que tenha um espaço antes e depois do sinal de igualdade, conforme o exemplo abaixo. 
 
 ---
-
 
 | Exemplo de Entrada | Exemplo de Saída |
 | ------------------ | ---------------- |
