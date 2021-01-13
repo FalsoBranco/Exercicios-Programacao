@@ -11,9 +11,9 @@ Imprima a mensagem "PROD" e a variável <strong>PROD</strong> conforme exemplo a
 
 | Exemplo de Entrada | Exemplo de Saída |
 | ------------------ | ---------------- |
-| 3<br>9             | SOMA = 27        |
-| -30<br>10          | SOMA = -300      |
-| 0<br>9             | SOAM = 0         |
+| 3<br>9             | PROD = 27        |
+| -30<br>10          | PROD = -300      |
+| 0<br>9             | PROD = 0         |
 ----
 
 Python
